@@ -1,0 +1,3 @@
+/home/mahmoud/Documents/02_Cmake_cpp/Task_Manger/build/CMakeFiles/PRINT.dir
+/home/mahmoud/Documents/02_Cmake_cpp/Task_Manger/build/CMakeFiles/edit_cache.dir
+/home/mahmoud/Documents/02_Cmake_cpp/Task_Manger/build/CMakeFiles/rebuild_cache.dir
